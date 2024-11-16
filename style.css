@@ -586,6 +586,7 @@ footer .copyright {
   }
   #feature {
     justify-content: space-between;
+    margin: 25px;
   }
   #feature .fe-box {
     width: 155px;
